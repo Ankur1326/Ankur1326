@@ -1,4 +1,4 @@
-![logo](https://github.com/Ankur1326/Ankur1326/blob/main/20230411_214952_0000.png)
+![logo](https://github.com/Ankur1326/Ankur1326/blob/main/20230411_222230_0000.png)
 
 <h1 align="center">Hi 👋, I'm Ankur</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
