@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur1326&label=Profile%20views&color=0e75b6&style=flat" alt="ankur1326" /> </p>
 
-- 🌱 I’m currently learning **Full Stack JavaScript web development at Ineuron AKA Physics wallah Skills**
+- 🌱 I’m currently learning **Full Stack JavaScript Web Application Development at Ineuron AKA Physics wallah Skills**
 
 - 📫 How to reach me **ankurswami17@gmail.com**
 
