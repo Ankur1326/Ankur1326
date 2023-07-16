@@ -6,6 +6,8 @@
 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur1326&label=Profile%20views&color=0e75b6&style=flat" alt="ankur1326" /> </p>
 
 - 🌱 I’m currently learning **Full Stack JavaScript Web Application Development at Ineuron AKA Physics wallah Skills**
@@ -26,4 +28,4 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankur1326&" alt="ankur1326" />
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/>
+<img align="left" src="https://user-images.githubusercontent.com/74038190/215283228-89a6af16-23b1-4144-ac9b-064dc973b3db.gif"/>
