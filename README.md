@@ -4,15 +4,17 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />Hi 👋, I'm Ankur<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur1326&label=Profile%20views&color=0e75b6&style=flat" alt="ankur1326" /> </p>
 
-- 🌱 I’m currently learning **Full Stack JavaScript Web Application Development at Ineuron AKA Physics wallah Skills**
+- 🌱 I’m **Full Stack JavaScript Web App Developer and Mobile App Deceloper in React Native**
 
-- 📫 How to reach me **ankurswami17@gmail.com**
+- 📫 How to reach me 
+    Email - **ankurswami17@gmail.com**
+    Mobile/whatsapp - **8690839558**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
