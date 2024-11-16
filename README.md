@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur1326&label=Profile%20views&color=0e75b6&style=flat" alt="ankur1326" /> </p>
 
-- 🌱 I’m **Full Stack JavaScript Web App Developer and Mobile App Deceloper in React Native**
+- 🌱 I’m **Full Stack JavaScript Web App Developer and Mobile App Developer in React Native**
 
 - 📫 How to reach me 
     Mobile/whatsapp - **8690839558**  
